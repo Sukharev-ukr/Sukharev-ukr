@@ -19,14 +19,14 @@ I'm an IT student at Inholland University of Applied Sciences, specializing in c
 
 Outside tech, I’m the captain of Maijard FC and enjoy the teamwork and leadership it brings. I’m passionate about becoming a cybersecurity professional and am preparing for CompTIA Security+</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Rapid Fire</h3>
 
 - 💼 I'm currently working on: **💻 Studying for CompTIA Security+**
 - 🌱 I'm currently learning: **📚 OSINT**
 - 💬 Ask me about: **💡 Ethical hacking**
 - ⚡ Fun fact: **🎢 I once debugged a code while was on the bus!**
 
- **<h3 align="left">GitHub Stats</h3>
+ <h3 align="left">GitHub Stats</h3>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sukharev-ukr&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />

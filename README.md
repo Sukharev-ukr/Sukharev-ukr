@@ -13,7 +13,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Sukharev-ukr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/ihor-sukharev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Hi, I’m Ihor!
+ <h3 align="left">Hi, I’m Ihor!
 
 I'm an IT student at Inholland University of Applied Sciences, specializing in cybersecurity and ethical hacking. Skilled in Python, C#, and SQL, I work on projects like custom backdoors, database systems, and REST APIs. I also have hands-on experience with penetration testing, Kali Linux, and Azure SIEM setup.
 
@@ -26,7 +26,7 @@ Outside tech, I’m the captain of Maijard FC and enjoy the teamwork and leaders
 - 💬 Ask me about: **💡 Ethical hacking**
 - ⚡ Fun fact: **🎢 I once debugged a code while was on the bus!**
 
- **<h3 align="left">GitHub Stats</h3>**
+ **<h3 align="left">GitHub Stats</h3>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sukharev-ukr&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />

@@ -19,7 +19,7 @@ I'm an IT student at Inholland University of Applied Sciences, specializing in c
 
 Outside tech, I’m the captain of Maijard FC and enjoy the teamwork and leadership it brings. I’m passionate about becoming a cybersecurity professional and am preparing for CompTIA Security+</h3>**
 
-**<h3 align="left">Rapid Fire</h3>
+<h3 align="left">Rapid Fire</h3>
 
 - 💼 I'm currently working on: **💻 Studying for CompTIA Security+**
 - 🌱 I'm currently learning: **📚 OSINT**

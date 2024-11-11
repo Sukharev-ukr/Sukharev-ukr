@@ -17,7 +17,7 @@
 
 I'm an IT student at Inholland University of Applied Sciences, specializing in cybersecurity and ethical hacking. Skilled in Python, C#, and SQL, I work on projects like custom backdoors, database systems, and REST APIs. I also have hands-on experience with penetration testing, Kali Linux, and Azure SIEM setup.
 
-Outside tech, I’m the captain of Maijard FC and enjoy the teamwork and leadership it brings. I’m passionate about becoming a cybersecurity professional and am preparing for CompTIA Security+</h3>**
+Outside tech, I’m the captain of Maijard FC and enjoy the teamwork and leadership it brings. I’m passionate about becoming a cybersecurity professional and am preparing for CompTIA Security+</h3>
 
 <h3 align="left">Rapid Fire</h3>
 
